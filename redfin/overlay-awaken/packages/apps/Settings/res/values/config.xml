@@ -22,3 +22,10 @@
     <bool name="config_show_smooth_display">true</bool>
 
 </resources>
+    <!-- Reverse charging -->
+    <bool name="config_show_reverse_charging">true</bool>
+
+    <!-- Wireless charger -->
+    <bool name="config_nfc_conflict_with_wlc">true</bool>
+</resources>
+
